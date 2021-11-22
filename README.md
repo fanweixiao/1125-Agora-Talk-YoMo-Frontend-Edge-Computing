@@ -45,4 +45,6 @@
 
 + [@renyuanz - AfterShip](https://github.com/renyuanz)
 + [@高春辉 - IPIP.NET](https://ipip.net)
++ [@Yona - YoMo](https://github.com/yoname)
 + [@CC - YoMo](https://github.com/fanweixiao)
+
