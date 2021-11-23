@@ -1,5 +1,7 @@
 # 1125-Agora-Talk-YoMo-Frontend-Edge-Computing
 
+Streaming Serverless Framework: [YoMo](https://github.com/yomorun/yomo)
+
 ## Structure
 
 1. 过去 3 个月，Vercel、Shopify 等新产品都增强了 Edge Computing 的形态
