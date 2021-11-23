@@ -45,6 +45,8 @@
 
 + [@renyuanz - AfterShip](https://github.com/renyuanz)
 + [@高春辉 - IPIP.NET](https://ipip.net)
-+ [@Yona - YoMo](https://github.com/yoname)
-+ [@CC - YoMo](https://github.com/fanweixiao)
++ [@Yona - YoMo](https://github.com/yomorun/yomo)
++ [@JimLiu - Groupon](https://github.com/JimLiu)
++ [@juntao (Michael Yuan)](https://github.com/juntao)
++ [@CC - YoMo](https://github.com/yomorun/yomo)
 
